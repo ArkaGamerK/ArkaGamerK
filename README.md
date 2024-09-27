@@ -1,5 +1,5 @@
 <h1 align="center">Hello User, I'm ArkaGamerK</h1>
-<h3 align="centre">Definitely not a bot 🤖, also not a fan of problems</h3>
+<h3 align="center">Definitely not a bot 🤖, also not a fan of problems</h3>
 
 🦆 quite rusty, here to improve and learn
 
